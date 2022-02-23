@@ -1,5 +1,4 @@
-# eightBall
-javascript eightball game
+//eightBall javascript eightball game
 let userName = 'Jamaal';
 
 
